@@ -1,0 +1,64 @@
+body{
+	margin:0px;
+}
+
+.wrapper{
+	width:1200px;
+	margin:0 auto;
+}
+
+.Header{
+	width:100%;
+	height:300px;
+	margin-top:50px;
+}
+
+.OrangeBox{
+	width:1200px;
+	height:300px;
+	position:relative;
+	background-color:orange;
+}
+
+.YellowBox{
+	width:570px;
+	height:260px;
+	position:absolute;
+	right:20px;
+	top:20px;
+	background-color: yellow;
+}
+
+.Middle{
+	width:100%;
+	height:550px;
+	margin-top:50px;
+}
+
+.BlueBox{
+	width:590px;
+	height:550px;
+	float:left;
+	background-color:blue;
+}
+
+li{
+	width:590px;
+	height:150px;
+	display:inline-block;
+	margin-bottom:50px;
+	margin-left:20px;
+	background-color:purple;
+}
+
+.End{
+	width:100%;
+	height:400px;
+	margin-top:50px;
+}
+
+.TealBox{
+	width:600px;
+	height:400px;
+	background-color:teal;
+}
